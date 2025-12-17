@@ -1,0 +1,33 @@
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.exe
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.deps.json
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.runtimeconfig.json
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.pdb
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac_ve_satis_tetbiqi.Form1.resources
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.csproj.GenerateResource.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.AssemblyInfoInputs.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.AssemblyInfo.cs
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.csproj.CoreCompileInputs.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\refint\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.pdb
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.genruntimeconfig.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac ve satis tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\ref\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.exe
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.deps.json
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.runtimeconfig.json
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\bin\Debug\net8.0-windows\herrac ve satis tetbiqi.pdb
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac_ve_satis_tetbiqi.Form1.resources
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.csproj.GenerateResource.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.AssemblyInfoInputs.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.AssemblyInfo.cs
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.csproj.CoreCompileInputs.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.sourcelink.json
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\refint\herrac ve satis tetbiqi.dll
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.pdb
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\herrac ve satis tetbiqi.genruntimeconfig.cache
+C:\Users\Memmedov\OneDrive\Documents\projects\c#\herrac_ve_satis_tetbiqi\herrac ve satis tetbiqi\obj\Debug\net8.0-windows\ref\herrac ve satis tetbiqi.dll
